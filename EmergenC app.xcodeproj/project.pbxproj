@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		9858BE052D0A2A8E00277D74 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9858BDEC2D0A2A8D00277D74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9858BDF32D0A2A8D00277D74;
+			remoteInfo = "EmergenC app";
+		};
+		9858BE0F2D0A2A8E00277D74 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9858BDEC2D0A2A8D00277D74 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9858BDF32D0A2A8D00277D74;
+			remoteInfo = "EmergenC app";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9858BDF42D0A2A8D00277D74 /* EmergenC app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EmergenC app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9858BE042D0A2A8E00277D74 /* EmergenC appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "EmergenC appTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9858BE0E2D0A2A8E00277D74 /* EmergenC appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "EmergenC appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		9858BDF62D0A2A8D00277D74 /* EmergenC app */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "EmergenC app";
+			sourceTree = "<group>";
+		};
+		9858BE072D0A2A8E00277D74 /* EmergenC appTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "EmergenC appTests";
+			sourceTree = "<group>";
+		};
+		9858BE112D0A2A8E00277D74 /* EmergenC appUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "EmergenC appUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9858BDF12D0A2A8D00277D74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9858BE012D0A2A8E00277D74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9858BE0B2D0A2A8E00277D74 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9858BDEB2D0A2A8D00277D74 = {
+			isa = PBXGroup;
+			children = (
+				9858BDF62D0A2A8D00277D74 /* EmergenC app */,
+				9858BE072D0A2A8E00277D74 /* EmergenC appTests */,
+				9858BE112D0A2A8E00277D74 /* EmergenC appUITests */,
+				9858BDF52D0A2A8D00277D74 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9858BDF52D0A2A8D00277D74 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9858BDF42D0A2A8D00277D74 /* EmergenC app.app */,
+				9858BE042D0A2A8E00277D74 /* EmergenC appTests.xctest */,
+				9858BE0E2D0A2A8E00277D74 /* EmergenC appUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9858BDF32D0A2A8D00277D74 /* EmergenC app */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9858BE182D0A2A8E00277D74 /* Build configuration list for PBXNativeTarget "EmergenC app" */;
+			buildPhases = (
+				9858BDF02D0A2A8D00277D74 /* Sources */,
+				9858BDF12D0A2A8D00277D74 /* Frameworks */,
+				9858BDF22D0A2A8D00277D74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				9858BDF62D0A2A8D00277D74 /* EmergenC app */,
+			);
+			name = "EmergenC app";
+			packageProductDependencies = (
+			);
+			productName = "EmergenC app";
+			productReference = 9858BDF42D0A2A8D00277D74 /* EmergenC app.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9858BE032D0A2A8E00277D74 /* EmergenC appTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9858BE1B2D0A2A8E00277D74 /* Build configuration list for PBXNativeTarget "EmergenC appTests" */;
+			buildPhases = (
+				9858BE002D0A2A8E00277D74 /* Sources */,
+				9858BE012D0A2A8E00277D74 /* Frameworks */,
+				9858BE022D0A2A8E00277D74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9858BE062D0A2A8E00277D74 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9858BE072D0A2A8E00277D74 /* EmergenC appTests */,
+			);
+			name = "EmergenC appTests";
+			packageProductDependencies = (
+			);
+			productName = "EmergenC appTests";
+			productReference = 9858BE042D0A2A8E00277D74 /* EmergenC appTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9858BE0D2D0A2A8E00277D74 /* EmergenC appUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9858BE1E2D0A2A8E00277D74 /* Build configuration list for PBXNativeTarget "EmergenC appUITests" */;
+			buildPhases = (
+				9858BE0A2D0A2A8E00277D74 /* Sources */,
+				9858BE0B2D0A2A8E00277D74 /* Frameworks */,
+				9858BE0C2D0A2A8E00277D74 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9858BE102D0A2A8E00277D74 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9858BE112D0A2A8E00277D74 /* EmergenC appUITests */,
+			);
+			name = "EmergenC appUITests";
+			packageProductDependencies = (
+			);
+			productName = "EmergenC appUITests";
+			productReference = 9858BE0E2D0A2A8E00277D74 /* EmergenC appUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9858BDEC2D0A2A8D00277D74 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					9858BDF32D0A2A8D00277D74 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					9858BE032D0A2A8E00277D74 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 9858BDF32D0A2A8D00277D74;
+					};
+					9858BE0D2D0A2A8E00277D74 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 9858BDF32D0A2A8D00277D74;
+					};
+				};
+			};
+			buildConfigurationList = 9858BDEF2D0A2A8D00277D74 /* Build configuration list for PBXProject "EmergenC app" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9858BDEB2D0A2A8D00277D74;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 9858BDF52D0A2A8D00277D74 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9858BDF32D0A2A8D00277D74 /* EmergenC app */,
+				9858BE032D0A2A8E00277D74 /* EmergenC appTests */,
+				9858BE0D2D0A2A8E00277D74 /* EmergenC appUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9858BDF22D0A2A8D00277D74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9858BE022D0A2A8E00277D74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9858BE0C2D0A2A8E00277D74 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9858BDF02D0A2A8D00277D74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9858BE002D0A2A8E00277D74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9858BE0A2D0A2A8E00277D74 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9858BE062D0A2A8E00277D74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9858BDF32D0A2A8D00277D74 /* EmergenC app */;
+			targetProxy = 9858BE052D0A2A8E00277D74 /* PBXContainerItemProxy */;
+		};
+		9858BE102D0A2A8E00277D74 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9858BDF32D0A2A8D00277D74 /* EmergenC app */;
+			targetProxy = 9858BE0F2D0A2A8E00277D74 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9858BE162D0A2A8E00277D74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9858BE172D0A2A8E00277D74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9858BE192D0A2A8E00277D74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"EmergenC app/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ACADEMY.EmergenC-app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9858BE1A2D0A2A8E00277D74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"EmergenC app/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ACADEMY.EmergenC-app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9858BE1C2D0A2A8E00277D74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ACADEMY.EmergenC-appTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EmergenC app.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EmergenC app";
+			};
+			name = Debug;
+		};
+		9858BE1D2D0A2A8E00277D74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ACADEMY.EmergenC-appTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EmergenC app.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/EmergenC app";
+			};
+			name = Release;
+		};
+		9858BE1F2D0A2A8E00277D74 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ACADEMY.EmergenC-appUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "EmergenC app";
+			};
+			name = Debug;
+		};
+		9858BE202D0A2A8E00277D74 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "ACADEMY.EmergenC-appUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "EmergenC app";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9858BDEF2D0A2A8D00277D74 /* Build configuration list for PBXProject "EmergenC app" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9858BE162D0A2A8E00277D74 /* Debug */,
+				9858BE172D0A2A8E00277D74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9858BE182D0A2A8E00277D74 /* Build configuration list for PBXNativeTarget "EmergenC app" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9858BE192D0A2A8E00277D74 /* Debug */,
+				9858BE1A2D0A2A8E00277D74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9858BE1B2D0A2A8E00277D74 /* Build configuration list for PBXNativeTarget "EmergenC appTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9858BE1C2D0A2A8E00277D74 /* Debug */,
+				9858BE1D2D0A2A8E00277D74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9858BE1E2D0A2A8E00277D74 /* Build configuration list for PBXNativeTarget "EmergenC appUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9858BE1F2D0A2A8E00277D74 /* Debug */,
+				9858BE202D0A2A8E00277D74 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9858BDEC2D0A2A8D00277D74 /* Project object */;
+}
