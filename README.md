@@ -1,4 +1,4 @@
-# EmergencyApp 🚨
+# EmergenCApp 🚨
 This is a simple iOS app built with Xcode that helps users quickly contact emergency services and access first aid information.
 ![App Screenshot](screenshot.png)
 
