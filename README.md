@@ -1,6 +1,7 @@
 # EmergenCApp 🚨
 This is a simple iOS app built with Xcode that helps users quickly contact emergency services and access first aid information.
-![readme](https://github.com/user-attachments/assets/fbaa0036-c8f3-4f7f-984c-050f2bebde53)
+
+![readme](https://github.com/user-attachments/assets/42248be1-ea86-4be7-affb-f183c47b719f)
 
 
 ## Features
